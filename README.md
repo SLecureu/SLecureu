@@ -1,7 +1,3 @@
-# Presentation
-
-<p>I like to learn :rocket:</p>
-
 ### Current works ⏳:
 
 * [__Goland__](https://github.com/SLecureu/Goland) : a forum using Golang for the backend API and React / TypeScript in combinaison of SCSS for the frontend.
