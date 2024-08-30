@@ -20,3 +20,6 @@
 | GO | JS |
 |-----|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+
+## GitHub Stats 📊:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SLecureu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
