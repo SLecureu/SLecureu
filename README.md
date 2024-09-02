@@ -1,7 +1,7 @@
 ### Current works ⏳:
 
 * [__Goland__](https://github.com/SLecureu/Goland) : a forum using Golang for the backend API and React / TypeScript in combinaison of SCSS for the frontend.
-
+* [__Social-Network__](https://github.com/cramanan/Social-Network-01) : a Facebook-like social network - school project.
 
 ## Languages 🔨:
 
