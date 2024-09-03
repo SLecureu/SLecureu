@@ -10,9 +10,9 @@
 
 ## Frameworks 🔧:
 
-| REACT |
+| NEXTJS |
 |-----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="55" height="55"/> |
 
 ## Piscines ☑️:
 
