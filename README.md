@@ -26,4 +26,4 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |
 
 ## GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SLecureu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SLecureu&theme=cobalt&hide=scss,css,html,dockerfile&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
